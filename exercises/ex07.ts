@@ -4,4 +4,4 @@
 
 const filterByType = () => {
   // Code here
-};
+}
